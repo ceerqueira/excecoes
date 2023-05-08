@@ -1,7 +1,8 @@
 # Java - Manipulação de Erros
 
 Do curso: <a href="https://cursos.alura.com.br/course/java-excecoes">Java Exceções: aprenda a criar, lançar e controlar exceções</a>. 
-<a href="https://cursos.alura.com.br/certificate/d2bc0b81-7430-44ca-b7dd-3f2a101df418">Certificação de Victor<a>
+
+<a href="https://cursos.alura.com.br/certificate/d2bc0b81-7430-44ca-b7dd-3f2a101df418">(Certificação de Victor)<a>
 
 - O tratamento de erros refere-se aos procedimentos de resposta e recuperação de condições de erro presentes em um aplicativo de software. Em outras - palavras, é o processo composto de antecipação, detecção e resolução de erros de aplicação, de programação ou de comunicação.
 - Tratar exceções pré-definidas
